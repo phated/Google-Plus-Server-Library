@@ -1,0 +1,18 @@
+{
+    "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com)",
+    "name": "Google_Plus_Server_Library",
+    "description": "Server-Side Implementation of Google's Client-Side Javascript Library for Google+",
+    "version": "0.0.1",
+    "main": "google-plus-server-library",
+    "engines": {
+        "node": ">=0.4.8"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/phated/Google-Plus-Server-Library.git"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://github.com/phated/Google-Plus-Server-Library/raw/master/LICENSE"
+    }]
+}
